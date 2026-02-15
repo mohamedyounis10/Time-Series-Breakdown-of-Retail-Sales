@@ -106,6 +106,8 @@ The interactive dashboard is built using **Power BI** (`Dashboard/walmart.pbix`)
 
 4.  **Open the Dashboard**
     Open `Dashboard/walmart.pbix` in Power BI Desktop.
+    
+<img width="1285" height="728" alt="Screenshot 2026-02-15 125139" src="https://github.com/user-attachments/assets/b97f0aa8-9907-4007-9ec1-c3eabb12bae1" />
 
 ---
 
@@ -127,3 +129,4 @@ This project was developed as part of a training program at **Elevvo**. I would 
 ## <a id="license"></a>📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
