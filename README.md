@@ -27,13 +27,7 @@ graph TD;
     A[Time Series Breakdown of Retail Sales] -->|Contains Data| B(Dataset);
     A -->|Contains Visuals| C(Dashboard);
     A -->|Analysis Logic| D(notebook.ipynb);
-    
-    click B "#dataset" "Go to Dataset Section"
-    click C "#dashboard" "Go to Dashboard Section"
-    click D "#notebook-analysis" "Go to Notebook Analysis Section"
 ```
-
-> **Note:** If the interactive diagram above doesn't work (e.g., on mobile), use the links below:
 
 - 📂 **[Dataset](#dataset)**
   - `Walmart.csv`: Raw sales data.
@@ -129,4 +123,5 @@ This project was developed as part of a training program at **Elevvo**. I would 
 ## <a id="license"></a>📝 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
 
